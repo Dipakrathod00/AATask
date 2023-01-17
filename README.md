@@ -1,5 +1,6 @@
 
-To start the project 
+steps 
+1) npm i 
+2) npm start
 
-### `npm start`
 
