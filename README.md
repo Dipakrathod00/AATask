@@ -1,5 +1,5 @@
 
-steps 
+steps to start application. 
 1) npm i 
 2) npm start
 
